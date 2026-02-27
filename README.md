@@ -1,2 +1,2 @@
-# haroma
+# table booking
 table booking
